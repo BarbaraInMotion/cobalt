@@ -17,3 +17,7 @@ Designed specifically for use with the BoldGrid suite of plugins, all BoldGrid t
 1. In your admin panel, go to Appearance > Themes and click the Add New button.
 2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
 3. Click Activate to use your new theme right away.
+
+##Training Exercise
+Lorem Bob Ross
+Now it's beginning to make a little sense. We don't have anything but happy trees here. Mix your color marbly don't mix it dead. The man who does the best job is the one who is happy at his job. Talk to trees, look at the birds. Whatever it takes. We have a fantastic little sky!
